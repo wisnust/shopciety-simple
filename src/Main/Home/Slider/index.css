@@ -1,0 +1,14 @@
+.main-carousel .carousel-inner .carousel-item {
+  height: 400px;
+  width: 100%;
+}
+.main-carousel .carousel-inner .carousel-item img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+.main-carousel .carousel-inner .carousel-item .carousel-caption h3 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
